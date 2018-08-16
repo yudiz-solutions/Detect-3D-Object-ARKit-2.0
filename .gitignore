@@ -1,0 +1,10 @@
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata
+*.xcodeproj/project.xcworkspace/xcuserdata
+*.xcodeproj/project.xcworkspace/Detect3DObject.xcworkspace
+*.xcworkspace/contents.xcworkspacedata
+*.xcworkspace/xcuserdata
+Pods
+*.DS_Store
+.DS_Store
+Podfile.lock
